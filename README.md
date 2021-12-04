@@ -28,7 +28,7 @@ During his spare time, he mentors IT newcomers at the Newcomers Center, Canada.
 
 ## 🔔 My Certfifications in Azure + Terraform + AWS + Oracle 
 <a href="https://www.linkedin.com/feed/update/urn:li:activity:6780513509831778304/" target="https://www.linkedin.com/feed/update/urn:li:activity:6780513509831778304/">
-	<img src="https://user-images.githubusercontent.com/54389703/115725797-65bbb680-a33f-11eb-93f0-5200cdc77f07.png" width="70%" align="center" alt="Click to view on LinkedIn" title="My certifications, as an image"/>
+	<img src="![image](https://user-images.githubusercontent.com/54389703/144715425-38bf43a7-a731-4f12-9be2-3e379ad90a2d.png)" width="70%" align="center" alt="Click to view on LinkedIn" title="My certifications, as an image"/>
 </a>
 
 ### GitHub Stats:
