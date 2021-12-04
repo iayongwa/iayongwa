@@ -7,9 +7,9 @@
 Israel Ayongwa is a cloud infrastructure engineer. He is multi-certified in Azure, AWS, Terraform and Oracle. His professional experience includes working as an Azure Infrastructure Consultant and DevOps Engineer. He is passionate about continuous learning as well as interacting with other cloud enthusiasts on the CloudSkills.io Slack community, engaging on LinkedIn as well as Twitter.
 During his spare time, he mentors IT newcomers at the Newcomers Center, Canada. 
 
-- 🔭 I’m currently working on implementing a Terraform based CICD pipeline in Azure DevOps.
+- 🔭 I’m currently working on implementing Azure Landing Zones using Terraform and ARM templates.
 - 🌱 I’m currently preparing for the AZ-500 certification.
-- 👯 I’m looking to upgrade my skills in Python.
+- 👯 I’m looking to upgrade my coding skills in Python.
 - 🤔 I’m looking for help with creating a regex naming convention in Azure Policy
 - 📫 How to reach me: Twitter: @iayongwa LinkedIn: https://www.linkedin.com/in/iayongwa/
 - ⚡ Fun fact: I used to moonlight as a part time DJ before the pandemic. ;)  
