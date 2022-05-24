@@ -8,10 +8,11 @@ Israel Ayongwa is a cloud infrastructure engineer. He is multi-certified in Azur
 During his spare time, he mentors IT newcomers at the Newcomers Center, Canada. 
 
 - 🔭 I’m currently working on implementing Azure Landing Zones using Terraform and ARM templates.
-- 🌱 I’m currently preparing for the AZ-500 certification.
+- 🌱 I’m currently preparing for the AI-102 certification.
+- 🌱 I recently renewed my DevOps Engineer and Solutions Architect certifications, acquired AZ-500, AI-900, and DP-900, certifications.
 - 👯 I’m looking to upgrade my coding skills in Python.
 - 🤔 I’m looking for help with creating a regex naming convention in Azure Policy
-- 📫 How to reach me: Twitter: @iayongwa LinkedIn: https://www.linkedin.com/in/iayongwa/
+- 📫 How to reach me: Twitter: @iayongwa
 - ⚡ Fun fact: I used to moonlight as a part time DJ before the pandemic. ;)  
 
 </p>
