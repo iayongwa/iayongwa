@@ -46,7 +46,7 @@ During his spare time, he mentors IT newcomers at the Newcomers Center, Canada.
 
 ## 🔔 My Latest Tweet
 
-<a href="https://twitter.com/iayongwa/status/1465319155679199240?s=20" target="https://twitter.com/iayongwa/status/1525166401098371073">
+<a href="https://twitter.com/iayongwa/status/1525166401098371073" target="https://twitter.com/iayongwa/status/1525166401098371073">
 	<img src="https://user-images.githubusercontent.com/54389703/170072723-75cd81cd-298b-4500-8e50-0a00663d4d6e.jpg" width="70%" align="center" alt="Click to view on LinkedIn" title="My latest tweet, as an image"/>
 </a>
 
