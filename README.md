@@ -29,7 +29,7 @@ I’m also an active community contributor at **KubeSkills**, and mentor aspirin
 - **Infrastructure as Code:** Terraform, Bicep, ARM templates, Policy as Code
 - **Scripting & Development:** Python, PowerShell, Bash, YAML
 - **Security & Governance:** RBAC, Azure Policy, Key Vault, Managed Identities
-- **Monitoring & Optimization:** Application Insights, Log Analytics, cost management
+- **Monitoring & Optimization:** Grafana, Application Insights, Log Analytics
 
 ---
 
