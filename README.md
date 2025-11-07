@@ -100,7 +100,7 @@ I’m also an active community contributor at **KubeSkills**, and mentor aspirin
 ### 🗞️ Latest Tweet
 <p align="center">
   <a href="https://twitter.com/iayongwa/status/1986074319659970775" target="_blank">
-    <img src="https://user-images.githubusercontent.com/54389703/84ffc79a-7c8e-42d9-b93a-0c154fe2ce07.jpg" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
+    <img src="https://github.com/iayongwa/iayongwa/blob/95e760e5a06d4eba8b278fcca2a4c1c3422c7248/latest-tweet.jpeg" width="70%" align="center" alt="Click to view on Twitter" title="My latest tweet, as an image"/>
   </a>
 </p>
 
