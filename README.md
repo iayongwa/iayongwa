@@ -108,3 +108,52 @@ I’m also an active community contributor at **KubeSkills**, and mentor aspirin
 
 ⚡ *Fun fact:* Before becoming a cloud engineer, I was a part-time DJ. 🎧  
 ✨ From [@iayongwa](https://github.com/iayongwa)
+
+---
+
+## 📌 Featured Projects
+
+### 🧱 [Azure Enterprise Infrastructure as Code (IaC)](https://github.com/iayongwa/azure-enterprise-iac)
+**Tech:** Terraform · Azure DevOps · GitHub Actions · Bicep  
+**Overview:** End-to-end enterprise deployment framework automating Azure resource provisioning with Policy as Code.  
+**Highlights:**
+- Modularized Terraform structure for scalable multi-environment deployments  
+- Integrated security scanning with GitHub Advanced Security & Sentinel policies  
+- CI/CD pipeline triggers with approvals for production releases  
+
+---
+
+### 🧮 [DataOps Pipeline for Azure Databricks](https://github.com/iayongwa/databricks-dataops-pipeline)
+**Tech:** Databricks · Azure Data Factory · Terraform · GitHub Actions  
+**Overview:** Automated DataOps framework for provisioning and orchestrating Databricks workspaces, clusters, and jobs.  
+**Highlights:**
+- Infrastructure automated via Terraform + GitHub Actions  
+- Configurable environment promotion (Dev → QA → Prod)  
+- Built-in data quality checks and logging with Delta Lake  
+
+---
+
+### 🧠 [Azure AI & Copilot Demo Lab](https://github.com/iayongwa/azure-ai-copilot-lab)
+**Tech:** GitHub Copilot · Azure Cognitive Services · Python · OpenAI API  
+**Overview:** Hands-on lab demonstrating AI-driven app development using GitHub Copilot and Azure OpenAI.  
+**Highlights:**
+- Sample scripts and prompt engineering patterns for developers  
+- Integrates with Azure Cognitive Services and Logic Apps  
+- Companion Jupyter notebooks for AI-102 prep  
+
+---
+
+### 🧰 [DevOps Monitoring Dashboard](https://github.com/iayongwa/devops-monitoring-dashboard)
+**Tech:** Power BI · Log Analytics · Azure Monitor · Application Insights  
+**Overview:** Visualization dashboard for monitoring CI/CD pipeline health and cloud infrastructure performance.  
+**Highlights:**
+- Unified metrics across Azure DevOps, Terraform, and GitHub Actions  
+- Cost tracking and environment drift detection  
+- Includes Power BI templates and Kusto queries  
+
+---
+
+> 🧩 Explore all repositories at [github.com/iayongwa?tab=repositories](https://github.com/iayongwa?tab=repositories)
+
+---
+
