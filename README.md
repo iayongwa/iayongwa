@@ -103,6 +103,7 @@ I’m also an active community contributor at **KubeSkills**, and mentor aspirin
     <img src="https://user-images.githubusercontent.com/54389703/170072723-75cd81cd-298b-4500-8e50-0a00663d4d6e.jpg" width="70%" alt="Latest tweet" />
   </a>
 </p>
+![G4_0ES2a8AAQlIx](https://github.com/user-attachments/assets/645a0631-68f8-4341-9e60-a614ae34918f)
 
 ---
 
