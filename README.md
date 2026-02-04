@@ -8,7 +8,7 @@
 I'm an experienced **Cloud Infrastructure & Data Engineer** with a strong background in **Microsoft Azure**, **DevOps**, and **Data Platform Engineering**.  
 My expertise spans **Azure PaaS**, **Terraform**, **GitHub Actions**, **Azure DevOps Pipelines**, **Databricks**, and **DataOps automation** for large-scale enterprise environments.
 
-I’ve helped organizations modernize their cloud infrastructure, implement **CI/CD pipelines**, enforce **Policy as Code**, and deploy **secure, scalable data platforms** that support analytics, AI, and business intelligence workloads.
+I’ve helped organizations modernize their cloud infrastructure, implement **CI/CD pipelines** and **Apache workflows**, enforce **Policy as Code**, and deploy **secure, scalable data platforms** that support analytics, AI, and business intelligence workloads.
 
 I’m also an active community contributor at **KubeSkills**, and mentor aspiring IT professionals at the **Newcomers Centre, Canada**.
 
