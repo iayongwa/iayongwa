@@ -1,11 +1,11 @@
 ### 👋 Hi, I'm [Israel Ayongwa](https://www.linkedin.com/in/iayongwa/)
-> 🚀 Senior Cloud & Data Engineer | Azure Platform | DevOps Automation | DataOps | Infrastructure as Code
+> 🚀 Senior DataOps & AI Engineer | Azure Platform | DevOps Automation | DataOps | Infrastructure as Code
 
 ---
 
 #### 🧩 About Me
 
-I'm an experienced **Cloud Infrastructure & Data Engineer** with a strong background in **Microsoft Azure**, **DevOps**, and **Data Platform Engineering**.  
+I'm an experienced **DataOps & AI Engineer** with a strong background in **Microsoft Azure**, **DevOps**, **Agentic AI**, and **Data Platform Engineering**.  
 My expertise spans **Azure PaaS**, **Terraform**, **GitHub Actions**, **Azure DevOps Pipelines**, **Databricks**, and **DataOps automation** for large-scale enterprise environments.
 
 I’ve helped organizations modernize their cloud infrastructure, implement **CI/CD pipelines** and **Apache workflows**, enforce **Policy as Code**, and deploy **secure, scalable data platforms** that support analytics, AI, and business intelligence workloads.
@@ -23,6 +23,7 @@ I’m also an active community contributor at **KubeSkills**, and mentor aspirin
 
 #### 🎯 Core Competencies
 
+- **Agentic AI:** Agent Registry & Generative IA infrastructure
 - **Cloud Platforms:** Azure (AKS, Data Factory, Synapse, Monitor), AWS (EC2, S3, IAM)
 - **Data Engineering:** Databricks, Delta Lake, Fabric, Power BI integration
 - **DevOps & Automation:** GitHub Actions, Azure DevOps, YAML pipelines, CI/CD design
