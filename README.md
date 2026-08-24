@@ -24,26 +24,26 @@ I'm also an active community contributor at **KubeSkills** and mentor aspiring I
 
 ## 🔭 Current & Recent Projects
 
-### 🤖 SEO Request Automation Engine — Azure Functions + AI Foundry (American Family Care)
+### 🤖 SEO Request Automation Engine — Azure Functions + AI Foundry
 Designed and shipped a serverless Azure enrichment engine that automates SEO request triage — a scheduled Azure Function reads a SharePoint/Excel tracker, auto-fetches Google Search Console, GA4, and DataForSEO metrics per row, scores each request using **GPT-5 on Azure AI Foundry** with a written priority rationale, and writes results back into the same sheet. Coordinator enters 6 columns; the engine fills the other 11.
 - Engineered a **secretless, managed-identity security model** (Key Vault, app-only Graph Sites.Selected, zero API keys in code)
 - Authored **Azure Automation Runbooks** to instrument an end-to-end data lineage and audit trail — every metric in the tracker is auditable back to its source API call
 - Migrated CI/CD from GitHub Actions into the client's Azure DevOps org — four pipelines covering CI quality gates, gated infra deploy with what-if approval, packaged code deploy, and on-demand run
 - Diagnosed and resolved live production failures via **Application Insights / KQL**
 
-### 💬 Azure AI Foundry Policy Assistant — RAG Chatbot (American Family Care)
+### 💬 Azure AI Foundry Policy Assistant — RAG Chatbot
 Built a production-grade **GPT-5-powered RAG policy assistant** on the client's Azure tenant — grounding answers in a real policy corpus using **Azure AI Search** (hybrid keyword + vector + semantic reranking), with inline citation rendering and server-side prompt-injection protection.
 - Vue 3 + TypeScript SPA on **Azure Static Web Apps** with Azure Functions (Node 24, ESM v4) backend
 - Custom **Node/TypeScript ingestion pipeline** for chunking, embedding, and index upsert
 - Single idempotent **Bicep template** provisioning the entire stack end-to-end
 - GitHub Actions CI with ESLint, strict TypeScript, and ≥80% Vitest coverage
 
-### 🏗️ Enterprise AI Foundry Framework — Corteva & Vylor Spin-Co
+### 🏗️ Enterprise AI Foundry Framework
 Designed and delivered an **enterprise-grade, network-isolated Azure AI Foundry platform** as modular Bicep IaC — private endpoints throughout, zero public internet exposure of AI model endpoints, VNet-integrated APIM gateway with model-aware routing, and multi-vendor model catalog (OpenAI, Microsoft, xAI, Anthropic) across multiple Foundry regions with active/passive failover.
 - Subscription-scope Bicep orchestrator across multiple resource groups from a single deployment
 - **Model-aware APIM routing** with per-model backend pools, circuit breakers, and retry logic
 - Comprehensive **Responsible AI content-filter** (prompt shields, protected material, jailbreak detection)
-- **Templatized for M&A spin-off** (Vylor) — same IaC re-parameterized for a new corporate entity
+- **Templatized for M&A spin-off** — same IaC re-parameterized for a new corporate entity
 - Azure DevOps pipeline using **Azure Deployment Stacks** with Validate → What-If → Deploy staged workflow
 
 ### ☁️ Azure Landing Zone Implementations — Federal & Enterprise Clients
